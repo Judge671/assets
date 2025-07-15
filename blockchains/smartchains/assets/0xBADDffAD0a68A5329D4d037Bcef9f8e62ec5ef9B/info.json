@@ -1,0 +1,11 @@
+{
+  "name": "GetFree",
+  "symbol": "GOJFREE",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "GetFree ($GOJFREE) is a meme-fueled token powering the viral Get Out of Jail ecosystem led by Judge Ananich II™.",
+  "website": "https://gotfreecoin.com",
+  "explorer": "https://bscscan.com/token/0xBADDffAD0a68A5329D4d037Bcef9f8e62ec5ef9B",
+  "status": "active",
+  "id": "0xBADDffAD0a68A5329D4d037Bcef9f8e62ec5ef9B"
+}
